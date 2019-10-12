@@ -1,4 +1,4 @@
-Jalandhar, India
+Gombe Nigeria Jalandhar, India
 
 Lincoln, Pennsylvania
 
@@ -32,7 +32,7 @@ Calgary, Canada
 
 Sydney, Australia
 
-Vancouver, Canada
+Vancouver, Canadka
 
 Toronto, Canada
 
@@ -136,3 +136,4 @@ San Antonio, Texas
 Bolivar, Venezuela
 
 Lagos, Nigeria
+Kano, Nigeria 
